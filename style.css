@@ -10,7 +10,7 @@ body {
 
 header {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-        url("images/exam-portal-carousel-img-3.jpg");
+        url("./Examination-Portal-Project/images/exam-portal-carousel-img-3.jpg");
     background-size: cover;
     background-position: center;
     width: 100%;
@@ -21,12 +21,12 @@ header {
 @-webkit-keyframes mymoves {
     from {
         background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-            url("images/exam-portal-carousel-img-3.jpg");
+            url("./Examination-Portal-Project/images/exam-portal-carousel-img-3.jpg");
     }
 
     to {
         background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-            url("images/exam-portal-carousel-img-4.avif");
+            url("./Examination-Portal-Project/images/exam-portal-home-img-4.jpg");
     }
 }
 
